@@ -4,19 +4,19 @@ the interpreter for Hydra.
 # Syntax
 --declaration
 --
----$typ name = value
+-----$typ name = value
 
 --macros
 --
----@name ::
+-----@name ::
 
 --code
 --
----name : params
+-----name : params
 
 --Comments
 --
----Key = |
+-----Key = |
 
 
 
