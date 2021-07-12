@@ -1,2 +1,8 @@
 # Hydra-interpreter
-interpreter for Hydra
+the interpreter for Hydra.
+
+# Syntax
+-declaration
+--
+
+
