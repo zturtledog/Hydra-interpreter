@@ -5,10 +5,18 @@ the interpreter for Hydra.
 -declaration
 --
 --$typ name = value
----
 
-# Comments
--Key = |
+-macros
 --
+--@name ::
+
+-code
+--
+--name : params
+
+-Comments
+--
+--Key = |
+
 
 
