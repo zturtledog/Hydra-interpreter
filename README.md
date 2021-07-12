@@ -2,21 +2,21 @@
 the interpreter for Hydra.
 
 # Syntax
--declaration
+--declaration
 --
---$typ name = value
+---$typ name = value
 
--macros
+--macros
 --
---@name ::
+---@name ::
 
--code
+--code
 --
---name : params
+---name : params
 
--Comments
+--Comments
 --
---Key = |
+---Key = |
 
 
 
